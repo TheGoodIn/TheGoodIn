@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/837913401048563722/854943542183329842/Goodin_logo.png" align="center" style="width: 10%" />
+<img src="https://cdn.discordapp.com/attachments/837913401048563722/854943720410578944/Logo2.png" align="center" style="width: 10%" />
 </div>  
   
 
