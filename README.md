@@ -86,7 +86,7 @@ Discord: Goodin#8128
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=goodin&&style=flat-square)  
 
 <br />
 
