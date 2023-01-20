@@ -5,14 +5,11 @@
 
 ### Hello, I'm Goodin!  
   
-
-- 🔭 Working on [Bitify](https://bitify.tech)  
+  
+- ☑️ Backend Web Developer
   
 
-- ☑️ Discord Verified Bot Developer  
-  
-
-- 🧑 14 Year Old Student  
+- 🧑 16 Year Old Student  
   
 
 - 🌎 United States  
@@ -59,9 +56,6 @@
 
 [**TweetTracker**](https://github.com/TheGoodIn/ZotacStockChecker) Call your phone on new tweets, created to track tweets on new GPU drops.   
   
-
-[**Bitify**](https://bitclout.com/u/bitify) Creating the integration between BitClout and Discord, helping users reward holders and secure Discords.  
-
 [**Newegg-Shuffle**](https://www.npmjs.com/package/newegg-shuffle) Simple NPM Package for Newegg Shuffle API
   
 
@@ -79,10 +73,7 @@ What to get in contact with me?
   
 
 Email: contact@goodin.info  
-  
-
-Discord: Goodin#8128  
-  
+    
 
 <br/>  
 
