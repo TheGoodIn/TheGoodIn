@@ -42,18 +42,14 @@
 
 
 ## Past Work  
-[**Altamonte**](https://top.gg/bot/608420941361315971) Connecting Ro-Aviation and Discord to create all-in-one bot.  
-  
+[**BPAAuto.com**](https://github.com/TheGoodIn/BPAAutoWebsite) Full Car Marketplace including Real-Time Data Updates
 
+[**BriteBot**](https://github.com/TheGoodIn/BriteBot-Discord) Integrate EventBrite API directly into Discord
+  
 [**StatTrack**](https://top.gg/bot/790603664199778304) Tracking Stats like Membercount and making them simple for Discord Members to see.  
   
-
 [**Linkily**](https://top.gg/bot/773277392189521930) Shortens links made simple within a Discord Bot  
   
-
-[**GPUs.Me**](https://gpus.me) Web-Scraping Database for GPU drops from Newegg, Zotac and BestBuy. Includes a full public api and Discord Bot  
-  
-
 [**TweetTracker**](https://github.com/TheGoodIn/ZotacStockChecker) Call your phone on new tweets, created to track tweets on new GPU drops.   
   
 [**Newegg-Shuffle**](https://www.npmjs.com/package/newegg-shuffle) Simple NPM Package for Newegg Shuffle API
@@ -72,7 +68,7 @@
 What to get in contact with me?  
   
 
-Email: contact@goodin.info  
+Email: Cooper@goodin.dev
     
 
 <br/>  
