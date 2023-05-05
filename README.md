@@ -5,7 +5,9 @@
 
 ### Hello, I'm Goodin!  
   
-  
+- 💻 Full-Stack Engineer
+
+
 - ☑️ Backend Web Developer
   
 
